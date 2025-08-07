@@ -12,21 +12,31 @@ Observability & Reliability – Implement monitoring with Prometheus, Grafana & 
 Cloud Security – Apply RBAC, Azure Key Vault, and compliance-driven CI/CD workflows.
 
 🛠 Tech Stack
+
 Cloud: Azure (IaaS, PaaS), Azure Functions
+
 DevOps Tools: Azure DevOps, GitHub Actions, Jenkins, Octopus
+
 IaC: Terraform, ARM Templates, Ansible
+
 Containers: Docker, Kubernetes (AKS)
+
 Monitoring: Azure Monitor, App Insights, Prometheus, Grafana
+
 Languages: PowerShell, Bash, Python, C#, .NET, SQL
 
 🌟 Highlighted Projects
+
 Cloud-Optimized .NET App Deployment with Terraform
+
 Automated deployments with Terraform and secure Azure Bastion access.
 
 End-to-End DevOps with AKS
+
 Flask app deployed on AKS with CI/CD, monitoring via Prometheus & Grafana.
 
 Microservices Deployment Hub
+
 CI/CD for Node.js microservices on AKS with Jenkins and Azure Monitor integration.
 
 🏅 Certifications
