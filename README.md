@@ -1,4 +1,4 @@
-I’m an Azure DevOps Expert with 5.5+ years of experience in building cloud-native infrastructure, automating deployments, and driving DevOps culture across teams. I specialize in leveraging Microsoft Azure, Kubernetes, and Infrastructure as Code (Terraform) to deliver scalable, secure, and cost-optimized solutions.
+I’m an Azure DevOps Expert with 5.10 years of experience in building cloud-native infrastructure, automating deployments, and driving DevOps culture across teams. I specialize in leveraging Microsoft Azure, Kubernetes, and Infrastructure as Code (Terraform) to deliver scalable, secure, and cost-optimized solutions.
 
 🚀 What I Do
 Cloud Automation – Automate provisioning & deployments using Terraform, Azure DevOps, and GitHub Actions.
