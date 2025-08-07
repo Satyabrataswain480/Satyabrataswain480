@@ -30,7 +30,7 @@ Microservices Deployment Hub
 CI/CD for Node.js microservices on AKS with Jenkins and Azure Monitor integration.
 
 🏅 Certifications
-•	Microsoft Certified: Azure DevOps Engineer Expert (AZ 400)(https://learn.microsoft.com/en-us/users/satyabrataswain-2565/credentials/certification/devops-engineer?tab=credentials-tab)
+•	[Microsoft Certified: Azure DevOps Engineer Expert (AZ 400)](https://learn.microsoft.com/en-us/users/satyabrataswain-2565/credentials/certification/devops-engineer?tab=credentials-tab)
 •	Microsoft Certified: Azure Developer Associate (AZ 204)
 •	Microsoft Certified: Azure AI Fundamentals (AI 900)
 •	Microsoft Certified: Azure Fundamentals (AZ 900)
