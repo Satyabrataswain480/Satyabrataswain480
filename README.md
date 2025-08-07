@@ -30,13 +30,20 @@ Microservices Deployment Hub
 CI/CD for Node.js microservices on AKS with Jenkins and Azure Monitor integration.
 
 🏅 Certifications
+
 •	[Microsoft Certified: Azure DevOps Engineer Expert (AZ 400)](https://learn.microsoft.com/en-us/users/satyabrataswain-2565/credentials/certification/devops-engineer?tab=credentials-tab)
-•	Microsoft Certified: Azure Developer Associate (AZ 204)
-•	Microsoft Certified: Azure AI Fundamentals (AI 900)
-•	Microsoft Certified: Azure Fundamentals (AZ 900)
-•	SkillUp Certified: DevOps Engineer Program
-•	IBM Certified: Python for Data Science
-•	Udemy Certified: Docker & Kubernetes (Hands-on Certification)
+
+•	[Microsoft Certified: Azure Developer Associate (AZ 204)](https://learn.microsoft.com/en-us/users/satyabrataswain-2565/credentials/certification/azure-developer?tab=credentials-tab)
+
+•	[Microsoft Certified: Azure AI Fundamentals (AI 900)](https://learn.microsoft.com/en-us/users/satyabrataswain-2565/credentials/certification/azure-developer?tab=credentials-tab)
+
+•	[Microsoft Certified: Azure Fundamentals (AZ 900)](https://learn.microsoft.com/en-us/users/satyabrataswain-2565/credentials/certification/azure-developer?tab=credentials-tab)
+
+•	[SkillUp Certified: DevOps Engineer Program](https://courses-in.skillup.online/programcertificates/fd3d49edd3f244e5b5318e9901686119)
+
+•	[IBM Certified: Python for Data Science](https://courses.myclass.skillup.online/certificates/1337d72ac48d4d7aa16e44f7fe5b8d5d)
+
+•	[Udemy Certified: Docker & Kubernetes (Hands-on Certification)]()
 
 
 🌱 Continuous Learning
