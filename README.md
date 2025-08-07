@@ -27,16 +27,13 @@ Languages: PowerShell, Bash, Python, C#, .NET, SQL
 
 🌟 Highlighted Projects
 
-Cloud-Optimized .NET App Deployment with Terraform
-
+Cloud-Optimized .NET App Deployment with Terraform - 
 Automated deployments with Terraform and secure Azure Bastion access.
 
-End-to-End DevOps with AKS
-
+End-to-End DevOps with AKS - 
 Flask app deployed on AKS with CI/CD, monitoring via Prometheus & Grafana.
 
-Microservices Deployment Hub
-
+Microservices Deployment Hub - 
 CI/CD for Node.js microservices on AKS with Jenkins and Azure Monitor integration.
 
 🏅 Certifications
